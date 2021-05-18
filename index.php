@@ -1,1 +1,1 @@
-<?php include_once("./s2lab.html")?>
+<?php include_once("index.html");?>
